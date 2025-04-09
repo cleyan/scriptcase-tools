@@ -1,2 +1,2 @@
 # scriptcase-tools
-Herramientas y/o materia compartido para uso en scriptcase
+Herramientas y/o material compartido para uso en scriptcase
